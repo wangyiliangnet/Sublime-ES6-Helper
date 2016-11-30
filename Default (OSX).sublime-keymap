@@ -1,0 +1,4 @@
+[
+    { "keys": ["ctrl+1"], "command": "condition_expression_to_if" },
+    { "keys": ["ctrl+2"], "command": "var_to_const" }
+]
